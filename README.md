@@ -10,9 +10,4 @@
   - Programador Full Stack <br> 
   - Tecnologias que mais uso : C#, .NET, SHELL, Python, Javascript, TypeScript<br>
   - GNU/Debian<br>
-
-<hr>
-
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranskyth&layout=compact&langs_count=7&bg_color=0D1117&title_color=fffefe"/>
-
 </h1>
