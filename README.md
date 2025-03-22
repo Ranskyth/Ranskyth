@@ -10,4 +10,4 @@
   - Programador Full Stack <br> 
   - Tecnologias que mais uso : C#, .NET, SHELL, Python, Javascript, TypeScript<br>
   - GNU/Debian<br>
-</h1>
+
