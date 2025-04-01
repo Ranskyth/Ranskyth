@@ -8,6 +8,6 @@
 </div>
   
   - Programador Full Stack <br> 
-  - Tecnologias que mais uso : C#, .NET, SHELL, Python, Javascript, TypeScript<br>
+  - Tecnologias que mais uso : GO, SHELL, Javascript, TypeScript<br>
   - GNU/Debian<br>
 
