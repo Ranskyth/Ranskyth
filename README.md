@@ -32,8 +32,8 @@
 |------------|------------|-------------------|--------------------------|--------|----------------|
 | HTML       | Node.js    | MongoDB           | Docker                   | Prisma | TypeScript     |
 | CSS        | NestJS     | PostgreSQL        | Kubernetes               | TypeORM| JavaScript     |
-| Tailwind   | Express    | MySQL             | Grafana                  | Drizzle| Go             |
-| React      | Fastify    |                   | Git & GitHub             | GORM   | Shell Script   |
+| Tailwind   | Express    | MySQL             | Git & GitHub             | Drizzle| Go             |
+| React      | Fastify    |                   |                          | GORM   | Shell Script   |
 | Next.js    | Go / Fiber |                   |                          | EF Core| C#             |
 | Angular    | ASP.NET    |                   |                          |        | PHP            |
 
