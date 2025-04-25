@@ -24,21 +24,6 @@
   Eterno aprendiz com sede de conhecimento e vontade de crescer.
 </p>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-
-| 💻 Frontend | 🧠 Backend | 🗄️ Banco de Dados | 🔧 Ferramentas & DevOps | 🧬 ORMs | 🔤 Linguagens |
-|------------|------------|-------------------|--------------------------|--------|----------------|
-| HTML       | Node.js    | MongoDB           | Docker                   | Prisma | TypeScript     |
-| CSS        | NestJS     | PostgreSQL        | Kubernetes               | TypeORM| JavaScript     |
-| Tailwind   | Express    | MySQL             | Git & GitHub             | Drizzle| Go             |
-| React      | Fastify    |                   |                          | GORM   | Shell Script   |
-| Next.js    | Go / Fiber |                   |                          | EF Core| C#             |
-| Angular    | ASP.NET    |                   |                          |        | PHP            |
-
-</div>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
