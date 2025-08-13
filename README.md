@@ -9,8 +9,8 @@
 <h2 align="center">📊 GitHub</h2>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ranskyth&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranskyth&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ranskyth&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranskyth&layout=compact&theme=tokyonight"/>
 </p>
 
 <h2 align="center">🔗 Links</h2>
