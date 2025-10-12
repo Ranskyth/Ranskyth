@@ -36,9 +36,9 @@
 
 
 
-<h2 align="center">🔗 Links</h2>
+### 🔗 Links
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/gabriel-devfullstack/" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -52,8 +52,4 @@
     />
   </a>
 </p>
-
----
-
-<p align="center"><i>💬 “Quanto mais eu sei, mais eu percebo o quanto ainda t
 
