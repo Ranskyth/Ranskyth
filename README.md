@@ -1,4 +1,5 @@
-### Olá, eu sou o Gabriel<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 	
+## Olá, eu sou o Gabriel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+
 
 ### 📚 Formação
 
@@ -12,38 +13,26 @@
 
   - **Desenvolvimento de Sistemas** — *ETEC* / *Cursando*  
   - **Desenvolvimento de Software Multiplataforma** — *FATEC* / *Cursando*
-  
-  ### 🛠 Tech Stack
-  <table>
-    <tr>
-      <td>
-  
-  **_FrontEnd_**
-        
-  
-  <img height="40px" src="https://skills.syvixor.com/api/icons?i=nextjs,react,vite,tailwindcss"/>
-
-
-        
-   </td>
-   <td>
-   
-  **_BackEnd_**
-  
-  <img height="40px" src="https://skills.syvixor.com/api/icons?i=go,ts,js"/>
-     
-   </td>
-   <td>
-     
-  **_DevOps/Tools_**
-  
-<img height="40px" src="https://skills.syvixor.com/api/icons?i=docker,linux,vscode,vercel,netlify"/>
-  
-  
-  </table>
-  
-    
 </p>
+
+### 🛠 Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Front-End</strong><br/>
+      <img height="40px" src="https://skills.syvixor.com/api/icons?i=nextjs,react,vite,tailwindcss"/>
+    </td>
+    <td align="center" width="33%">
+      <strong>Back-End</strong><br/>
+      <img height="40px" src="https://skills.syvixor.com/api/icons?i=go,ts,js"/>
+    </td>
+    <td align="center" width="33%">
+      <strong>DevOps / Tools</strong><br/>
+      <img height="40px" src="https://skills.syvixor.com/api/icons?i=docker,linux,vscode"/>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -66,4 +55,5 @@
 
 ---
 
-<p align="center"><i>💬 “Quanto mais eu sei, mais eu percebo o quanto ainda tenho pra aprender.”</i></p>
+<p align="center"><i>💬 “Quanto mais eu sei, mais eu percebo o quanto ainda t
+
