@@ -19,17 +19,17 @@
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <strong>Front-End</strong><br/>
-      <img height="40px" src="https://skills.syvixor.com/api/icons?i=nextjs,react,vite,tailwindcss"/>
+      <img height="30px" src="https://skills.syvixor.com/api/icons?i=nextjs,react,vite,tailwindcss"/>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <strong>Back-End</strong><br/>
-      <img height="40px" src="https://skills.syvixor.com/api/icons?i=go,ts,js,java"/>
+      <img height="30px" src="https://skills.syvixor.com/api/icons?i=go,ts,js,java"/>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <strong>DevOps / Tools</strong><br/>
-      <img height="40px" src="https://skills.syvixor.com/api/icons?i=docker,linux,vscode"/>
+      <img height="30px" src="https://skills.syvixor.com/api/icons?i=docker,linux,vscode"/>
     </td>
   </tr>
 </table>
