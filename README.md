@@ -25,7 +25,7 @@
     </td>
     <td align="center" width="33%">
       <strong>Back-End</strong><br/>
-      <img height="40px" src="https://skills.syvixor.com/api/icons?i=go,ts,js"/>
+      <img height="40px" src="https://skills.syvixor.com/api/icons?i=go,ts,js,java"/>
     </td>
     <td align="center" width="33%">
       <strong>DevOps / Tools</strong><br/>
