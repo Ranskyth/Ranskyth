@@ -11,7 +11,7 @@
     align="right"
   />
 
-  - **Desenvolvimento de Sistemas** — *ETEC* / *Cursando*  
+  - **Desenvolvimento de Sistemas** — *ETEC* / *Concluido*  
   - **Desenvolvimento de Software Multiplataforma** — *FATEC* / *Cursando*
 </p>
 
